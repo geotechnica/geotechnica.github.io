@@ -10,11 +10,11 @@ exclude:
 
 # Site settings
 title: Geotechnica
-subtitle: "'Another way to share Geotechnic'"
+subtitle: "Go On, Get Your Geotechnics Out."
 email: anil.odabas@gmail.com
 name: Anıl ODABAŞ
 description: >
-  This site is developed for engineer who fall in loves the Geotechnics 
+  This site is developed for engineers who fall in love to Geotechnics... 
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
