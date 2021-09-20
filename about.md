@@ -9,7 +9,7 @@ main_nav: true
 
 Hi there :raised_hand_with_fingers_splayed: ! I am a geotechnical engineer who love, share and make some Geotechnics. I am trying to learn something new on Geotechnics and share with you.
 
-[Geotechnica] [geotechnica] is a initiative that's for web-based geotechnics created by [Anıl Odabaş] [linkedin]. Feel free to ask me [me] something that you wonder.
+[Geotechnica] [geotechnica] is a initiative that's for web-based geotechnics created by [Anıl Odabaş] [linkedin]. Feel free to ask me something that you wonder.
 
 
 [geotechnica]: https://github.com/geotechnica
