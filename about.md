@@ -14,4 +14,3 @@ Hi there! I am a geotechnical engineer who love, share and make some Geotechnics
 
 [geotechnica]: https://github.com/geotechnica
 [linkedin]: https://www.linkedin.com/in/anilodabas/
-[me]: anil.odabas@gmail.com
