@@ -15,12 +15,8 @@ main_nav: true
             <input type="text" name="name" class="form-control" id="exampleInputName" placeholder="Enter your name" required="required">
           </div>
           <div class="form-group">
-            <label for="exampleFormControlSelect1">Favourite Platform</label>
-            <select class="form-control" id="exampleFormControlSelect1" name="platform" required="required">
-              <option>Github</option>
-              <option>Gitlab</option>
-              <option>Bitbucket</option>
-            </select>
+            <label for="exampleInputMessage" required="required">Email address</label>
+            <input type="text" name="message" class="form-control" rows="5" id="exampleInputMessage" placeholder="Enter message">
           </div>
           <hr>
           <div class="form-group mt-3">
