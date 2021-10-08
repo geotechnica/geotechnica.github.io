@@ -20,7 +20,7 @@ main_nav: true
           </div>
           <hr>
           <div class="form-group mt-3">
-            <label class="mr-2">Upload your CV:</label>
+            <label class="mr-2">Upload your file:</label>
             <input type="file" name="file">
           </div>
           <hr>
