@@ -3,6 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 main_nav: true
+order: 3
 ---
 
 <form accept-charset="UTF-8" action="https://getform.io/f/afdd4deb-2003-44f6-b493-06764b35bac4" method="POST" enctype="multipart/form-data" target="_blank">
