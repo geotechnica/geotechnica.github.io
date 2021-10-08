@@ -15,7 +15,7 @@ main_nav: true
             <input type="text" name="name" class="form-control" id="exampleInputName" placeholder="Enter your name" required="required">
           </div>
           <div class="form-group">
-            <label for="exampleInputName">Message</label>
+            <label for="exampleInputMessage">Message</label>
             <textarea class="form-control" rows="10" placeholder="Enter your Message" name="message"> </textarea>
           </div>
           <hr>
