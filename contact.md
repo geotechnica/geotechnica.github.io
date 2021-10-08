@@ -7,7 +7,7 @@ main_nav: true
 
 <form accept-charset="UTF-8" action="https://getform.io/f/afdd4deb-2003-44f6-b493-06764b35bac4" method="POST" enctype="multipart/form-data" target="_blank">
           <div class="form-group">
-            <label for="exampleInputEmail1" required="required">Email address</label>
+            <label for="exampleInputEmail1" required="required">E-mail address</label>
             <input type="email" name="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
           </div>
           <div class="form-group">
@@ -16,7 +16,7 @@ main_nav: true
           </div>
           <div class="form-group">
             <label for="exampleInputName">Message</label>
-            <input type="text" name="message" class="form-control" rows="10" id="exampleInputMessage" placeholder="Enter your Message" required="required">
+            <textarea class="form-control" rows="10" placeholder="Enter your Message" name="message"> </textarea>
           </div>
           <hr>
           <div class="form-group mt-3">
