@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /typography/
+permalink: /contact/
 main_nav: true
 ---
 
