@@ -5,36 +5,30 @@ permalink: /contact/
 main_nav: true
 ---
 
-<hr>
-
-<h1 id="form_elements">Get in Touch</h1>
-
-<fieldset>
-  <p>I would love to hear from you.</p>
-
-  <form>
-    <h2>Message</h2>
-
-    <p>Please enter your valid e-mail adress</p>
-
-    <p><label for="password">Name:</label>
-      <input type="text" id="text_field" />
-    </p>
-
-    <p><label for="E-Mail">E-Mail:</label>
-      <input type="text" id="text_field" /></p>
-
-    <p><label for="text_area">Message:</label>
-      <textarea id="text_area"></textarea></p>
-
-    <p><label for="file">File Input:</label>
-      <input type="file" class="file" name="file" />
-    </p>
-
-    <p><input type="submit" value="Submit" /></p>
-  </form>
-</fieldset>
-
-<hr>
+<form accept-charset="UTF-8" action="https://getform.io/f/afdd4deb-2003-44f6-b493-06764b35bac4" method="POST" enctype="multipart/form-data" target="_blank">
+          <div class="form-group">
+            <label for="exampleInputEmail1" required="required">Email address</label>
+            <input type="email" name="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+          </div>
+          <div class="form-group">
+            <label for="exampleInputName">Name</label>
+            <input type="text" name="name" class="form-control" id="exampleInputName" placeholder="Enter your name" required="required">
+          </div>
+          <div class="form-group">
+            <label for="exampleFormControlSelect1">Favourite Platform</label>
+            <select class="form-control" id="exampleFormControlSelect1" name="platform" required="required">
+              <option>Github</option>
+              <option>Gitlab</option>
+              <option>Bitbucket</option>
+            </select>
+          </div>
+          <hr>
+          <div class="form-group mt-3">
+            <label class="mr-2">Upload your CV:</label>
+            <input type="file" name="file">
+          </div>
+          <hr>
+          <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
 
 
