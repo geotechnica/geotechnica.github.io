@@ -57,7 +57,7 @@ descriptions:
   - cat: jekyll
     desc: "Posts describing Jekyll setup techniques."
 
-  - cat: FEA
+  - cat: Fea
     desc: "Finite Element Analysis"
 
 # Social icons and sharing options
